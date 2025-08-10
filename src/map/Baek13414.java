@@ -4,6 +4,16 @@ import java.io.*;
 import java.util.*;
 
 // 백준 - 수강신청 (실버 3)
+/**
+ * 20103324
+ * 20133221
+ * 20133221
+ * 20093778
+ * 20140101
+ * 01234567
+ * 20093778
+ * 20103325
+ */
 public class Baek13414 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
